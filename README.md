@@ -18,5 +18,5 @@ Notes:
 jp.kl is the keyboard layout file, which I found here:<br />
 (https://www.wizforest.com/trash/dosbox/dosbox-r3850-jp.rar)<br /> 
 mapper-jp106.map is the mapper file created after running dosbox-x and adding in the keyboard mapping for 
-backslash "\" and the yen character. dosbox-jp.conf has been updated to load mapper-jp106.map on start and 
+backslash "\\" and the yen character. dosbox-x-jp.conf has been updated to load mapper-jp106.map on start and 
 run with "jp" keyboard layout.
