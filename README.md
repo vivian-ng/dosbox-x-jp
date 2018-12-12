@@ -1,4 +1,4 @@
-#dosbox-x-jp
+# dosbox-x-jp
 Additional files to run DOSBox-X with JP106 Japanese keyboard
 
 Put the following files into your DOSBox-X directory, run dosbox-x and it should work.
@@ -9,6 +9,9 @@ dosbox-jp.conf<br />
 
 You can find DOSBox-X here:<br />
 https://github.com/joncampbell123/dosbox-x
+
+To run dosbox-x with this configuration, you need to use<br/>
+dosbox-x -conf dosbox-x-jp.conf
 
 Notes:
 
